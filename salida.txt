@@ -1,0 +1,136 @@
+ - - - - - 
+- - - - - - 
+- - - - - - 
+- - - - - - 
+- - - - - - 
+- - - - - - 
+Jugador 1, seleccione columna: 9
+Movimiento invalido. Intente de nuevo
+Jugador 1, seleccione columna: D
+Movimiento invalido. Intente de nuevo
+Jugador 1, seleccione columna: 0
+- - - - - - 
+- - - - - - 
+- - - - - - 
+- - - - - - 
+- - - - - - 
+O - - - - - 
+Jugador 2, seleccione columna: 0
+- - - - - - 
+- - - - - - 
+- - - - - - 
+- - - - - - 
+X - - - - - 
+O - - - - - 
+Jugador 1, seleccione columna: 0
+- - - - - - 
+- - - - - - 
+- - - - - - 
+O - - - - - 
+X - - - - - 
+O - - - - - 
+Jugador 2, seleccione columna: 0
+- - - - - - 
+- - - - - - 
+X - - - - - 
+O - - - - - 
+X - - - - - 
+O - - - - - 
+Jugador 1, seleccione columna: 0
+- - - - - - 
+O - - - - - 
+X - - - - - 
+O - - - - - 
+X - - - - - 
+O - - - - - 
+Jugador 2, seleccione columna: 0
+X - - - - - 
+O - - - - - 
+X - - - - - 
+O - - - - - 
+X - - - - - 
+O - - - - - 
+Jugador 1, seleccione columna: 0
+Movimiento invalido. Intente de nuevo
+Jugador 1, seleccione columna: 1
+X - - - - - 
+O - - - - - 
+X - - - - - 
+O - - - - - 
+X - - - - - 
+O O - - - - 
+Jugador 2, seleccione columna: 2
+X - - - - - 
+O - - - - - 
+X - - - - - 
+O - - - - - 
+X - - - - - 
+O O X - - - 
+Jugador 1, seleccione columna: 1
+X - - - - - 
+O - - - - - 
+X - - - - - 
+O - - - - - 
+X O - - - - 
+O O X - - - 
+Jugador 2, seleccione columna: 1
+X - - - - - 
+O - - - - - 
+X - - - - - 
+O X - - - - 
+X O - - - - 
+O O X - - - 
+Jugador 1, seleccione columna: 3
+X - - - - - 
+O - - - - - 
+X - - - - - 
+O X - - - - 
+X O - - - - 
+O O X O - - 
+Jugador 2, seleccione columna: 2
+X - - - - - 
+O - - - - - 
+X - - - - - 
+O X - - - - 
+X O X - - - 
+O O X O - - 
+Jugador 1, seleccione columna: 2
+X - - - - - 
+O - - - - - 
+X - - - - - 
+O X O - - - 
+X O X - - - 
+O O X O - - 
+Jugador 2, seleccione columna: 3
+X - - - - - 
+O - - - - - 
+X - - - - - 
+O X O - - - 
+X O X X - - 
+O O X O - - 
+Jugador 1, seleccione columna: 4
+X - - - - - 
+O - - - - - 
+X - - - - - 
+O X O - - - 
+X O X X - - 
+O O X O O - 
+Jugador 2, seleccione columna: 3
+X - - - - - 
+O - - - - - 
+X - - - - - 
+O X O X - - 
+X O X X - - 
+O O X O O - 
+Jugador 1, seleccione columna: 3
+X - - - - - 
+O - - - - - 
+X - - O - - 
+O X O X - - 
+X O X X - - 
+O O X O O - 
+Jugador 1 Gana
+
+
+--- halting the LC-3 ---
+
